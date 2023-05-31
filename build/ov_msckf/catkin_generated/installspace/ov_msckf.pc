@@ -1,0 +1,8 @@
+prefix=/home/karthik/openvins/install
+
+Name: ov_msckf
+Description: Description of ov_msckf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

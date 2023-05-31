@@ -1,0 +1,8 @@
+prefix=/home/karthik/openvins/devel
+
+Name: ov_core
+Description: Description of ov_core
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

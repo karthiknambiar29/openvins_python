@@ -131,6 +131,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/karthik/openvins/build/gtest/cmake_install.cmake")
+  include("/home/karthik/openvins/build/ov_core/cmake_install.cmake")
+  include("/home/karthik/openvins/build/ov_msckf/cmake_install.cmake")
 
 endif()
 
